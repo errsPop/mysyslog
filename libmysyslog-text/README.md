@@ -1,1 +1,2 @@
-# libmysyslog-text
+## libmysyslog-text
+Вывод в журнал в виде строки с разделителем 
